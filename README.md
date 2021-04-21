@@ -40,7 +40,7 @@
 紫前景，白背景
 紫前景，黄背景
 ```
-![Train_data_types](D:/Github_Summary/Mask_RCNN-Colab/imgs/Train_data_type.png)
+![Train_data_types](./imgs/Train_data_type.png)
 
 | 文件来源           | 前景 | 背景 | 个数 |
 | ------------------ | ---- | ---- | ---- |
@@ -69,7 +69,7 @@
 
 ##### 1.图片尺寸统计
 
-![Image_Size_Stats](D:/Github_Summary/Mask_RCNN-Colab/imgs/Image_Size_Stats.png)
+![Image_Size_Stats](./imgs/Image_Size_Stats.png)
 
 ```
 Image Count:  639
@@ -80,7 +80,7 @@ Image Count:  639
 
 ##### 2.每张图的细胞核统计    
 
-![Nuclei_per_Image_Stats](D:/Github_Summary/Mask_RCNN-Colab/imgs/Nuclei_per_Image_Stats.png) 
+![Nuclei_per_Image_Stats](./imgs/Nuclei_per_Image_Stats.png) 
 
 ```
 Nuclei/Image
@@ -92,7 +92,7 @@ Nuclei/Image
 
 ##### 3.细胞核尺寸统计  
 
-![Nuclei_Size_Stats](D:/Github_Summary/Mask_RCNN-Colab/imgs/Nuclei_Size_Stats.png)    
+![Nuclei_Size_Stats](./imgs/Nuclei_Size_Stats.png)    
 
 
 ```
@@ -115,7 +115,7 @@ Nuclei/Image
     Nucleus Area.   mean: 751.73  median: 693.00  min: 21.00  max: 5120.00
 ```
 
-![细胞核宽高比例](D:/Github_Summary/Mask_RCNN-Colab/imgs/细胞核宽高比例.png) 
+![细胞核宽高比例](./imgs/细胞核宽高比例.png) 
 
 ```
 Nucleus Aspect Ratio.  mean: 1.09  median: 1.00  min: 0.02  max: 57.00
